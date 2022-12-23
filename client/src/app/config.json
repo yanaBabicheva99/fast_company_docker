@@ -1,4 +1,4 @@
 {
-    "apiEndpoint": "http://80/api",
+    "apiEndpoint": "http://0.0.0.80/api",
     "isFireBase": false
 }
